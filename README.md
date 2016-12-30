@@ -17,4 +17,4 @@ swagger ui, spring auditor aware**
 
 **by: surung-mengajar**
 
-[catatansisurung.wordpress.com]()
+[admin-blog](catatansisurung.wordpress.com)
