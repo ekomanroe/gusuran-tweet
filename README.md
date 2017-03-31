@@ -1,3 +1,5 @@
+!https://travis-ci.org/ekomanroe/gusuran-tweet.svg?branch=master!:https://travis-ci.org/ekomanroe/gusuran-tweet
+
 **simple crud application using spring-boot**
 
 **technolgy used:**
