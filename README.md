@@ -9,7 +9,7 @@
 **- postgresql**
 
 **this application was implemented global advice handler,
-swagger ui, spring auditor aware**
+swagger ui, spring auditor aware, builder pattern**
 
 **run using** `mvn spring-boot:run`
 

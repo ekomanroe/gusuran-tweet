@@ -1,7 +1,5 @@
 package com.springboot.model.entity;
 
-import com.springboot.dto.MemberRequest;
-import com.springboot.dto.MemberRequestBuilder;
 import com.springboot.dto.MemberResponse;
 import com.springboot.dto.MemberResponseBuilder;
 import com.springboot.model.Enum.Gender;
